@@ -1,3 +1,4 @@
 **/*.ipynb_checkpoints/*
 *.mp4
 .DS_Store
+/Module_2/Module_2_challenge_problems_SL.ipynb
